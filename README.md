@@ -20,4 +20,4 @@ Main technologies used:
 *   Three.js
 
 <br/>
-![](./static/README_gifs/planets.gif)
+![](./static/README_gifs/planets.png)
