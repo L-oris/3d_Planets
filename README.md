@@ -20,4 +20,4 @@ Main technologies used:
 *   Three.js
 
 <br/>
-![](./planets.png)
+<img src="./planets.png"/>
